@@ -146,9 +146,6 @@ Machine-Test-for-MERN-Stack-Developer/
 
 ---
 
-
----
-
 ## 👩‍💻 Developed By
 
 Bhavana Gowda  
