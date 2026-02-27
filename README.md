@@ -146,20 +146,6 @@ Machine-Test-for-MERN-Stack-Developer/
 
 ---
 
-## 🎥 Demo Video
-
-Google Drive Link:
-(Add your Google Drive video link here)
-
----
-
-## ✅ Evaluation Criteria Coverage
-
-✔ Functionality – All required features implemented  
-✔ Code Quality – Clean MVC architecture  
-✔ Validation & Error Handling – Proper backend validation  
-✔ User Interface – Structured dashboard  
-✔ Execution – Easy setup with clear instructions  
 
 ---
 
